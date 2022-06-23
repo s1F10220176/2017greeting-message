@@ -7,7 +7,7 @@ def greet():
     elif hour <= 17:
         message = 'Hello'
     else:
-        message = 'Good evening'
+        message = 'Goo evening'
     print(message)
 
 
